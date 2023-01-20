@@ -4,6 +4,12 @@ fields like label id, name, binding id changed.
 3.API binding is not working.
 4.Button is working but the message is not getting
 5.Input Switch component the button is working but nothing appearing.
+6.In File custom class is not working,grid type and grid count is also not working,and 
+border radius and border is also not working.
+7.In button allignment,border radius border icon not working.
+8.In Editor bold, italic functions not working,validations and styling is also not working.
+9.In date custom class is not working,grid type and grid count is also not working and alignment is also not working.
+
 
 
  

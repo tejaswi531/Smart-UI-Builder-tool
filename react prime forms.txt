@@ -1,16 +1,27 @@
 1.In application name it is not accept the uppercase, numbers,space.Once the application 
 name created if we gave same name it will not accept.
-2.In Component name it is not accepting the extra space and special characters and Upper case letters
+2.In Component name it is not accepting the extra space and special characters and Upper case letters.
+3.In check box custom class is not working,grid type and grid count is also not working
+4.Text ->Style->justify content is not working and grid type and grid count is also not working.
+5.Radio button is not working.
+6.In File custom class is not working,grid type and grid count is also not working.
+7.In time custom class is not working,grid type and grid count is also not working and alignment is also not working.
+8.Button is working but the message is not getting.
+9..In number custom class is not working,grid type and grid count is also not working and alignment is also not working.
 
-3.Template generation is taking too much time
-
-4.Text Alignment is not working
-
-5.Button group is not present in react with bootstrap prime.
-6.Font size is not adjustable.
-7.Grid type and count is not working
-8.Button is working but the message is not getting
-
-9.font size is not adjustable.
 10.after mentioning the label id,name, binding id, but while generating the template its nothing changed
+11.In Id comnponent we can use only letters it is not accepting extra space, special characters and upper case letters
+12.API binding is not working.
+13.In Tree select->styling->custom class is not working,grid type and grid count is also not working,
+border radius and border not working.
+14.Cascade Select->when we select options its not appearing and custom class is not working,grid type and grid count is also not working,
+border radius and border not working.
+15.In Editor bold, italic functions not working,validations and styling is also not working.
+16.In Email grid count and type is not working.
+17.In password also same as the above in email.
+18..In date custom class is not working,grid type and grid count is also not working and alignment is also not working.
+
+
+
+
 
