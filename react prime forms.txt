@@ -1,0 +1,16 @@
+1.In application name it is not accept the uppercase, numbers,space.Once the application 
+name created if we gave same name it will not accept.
+2.In Component name it is not accepting the extra space and special characters and Upper case letters
+
+3.Template generation is taking too much time
+
+4.Text Alignment is not working
+
+5.Button group is not present in react with bootstrap prime.
+6.Font size is not adjustable.
+7.Grid type and count is not working
+8.Button is working but the message is not getting
+
+9.font size is not adjustable.
+10.after mentioning the label id,name, binding id, but while generating the template its nothing changed
+

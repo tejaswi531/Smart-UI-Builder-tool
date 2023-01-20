@@ -1,0 +1,10 @@
+1.after mentioning the label id,name, binding id, but while generating the template its getting message like required 
+fields like label id, name, binding id changed.
+2.In Id comnponent we can use only letters it is not accepting extra space, special characters and upper case letters
+3.API binding is not working.
+4.Button is working but the message is not getting
+5.Input Switch component the button is working but nothing appearing.
+
+
+ 
+ 
